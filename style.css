@@ -1,6 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  background: #0F172A;
+  display: 0;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(font.jpg') no-repeat;
+    background:  ;
+    background-size: cover;
   color: white;
   margin: 0;
   text-align: center;
